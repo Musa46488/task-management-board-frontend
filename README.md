@@ -49,10 +49,6 @@ PostgreSQL
 
 [View Backend API](https://github.com/Musa46488/task-management-board-api)
 
-## Screenshots
-
-Add screenshots of the task board here.
-
 ## Running Locally
 
 ```bash
